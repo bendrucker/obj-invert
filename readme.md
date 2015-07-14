@@ -23,12 +23,14 @@ invert({foo: 'bar'})
 
 #### `invert(obj)` -> `object`
 
+Returns a new object with the key/value pairs from `obj` swapped.
+
 ##### obj
 
 *Required*  
 Type: `object`
 
-An object to invert.
+An object to invert. `obj` will not be modified.
 
 
 ## License
