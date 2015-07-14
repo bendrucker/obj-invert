@@ -1,7 +1,7 @@
 {
   "name": "obj-invert",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Swap an object's keys with its values",
   "license": "MIT",
   "repository": "bendrucker/obj-invert",
