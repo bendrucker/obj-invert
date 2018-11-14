@@ -1,4 +1,4 @@
-# obj-invert [![Build Status](https://travis-ci.org/bendrucker/obj-invert.svg?branch=master)](https://travis-ci.org/bendrucker/obj-invert)
+# obj-invert [![Build Status](https://travis-ci.org/bendrucker/obj-invert.svg?branch=master)](https://travis-ci.org/bendrucker/obj-invert) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/obj-invert.svg)](https://greenkeeper.io/)
 
 > Swap an object's keys with its values
 
